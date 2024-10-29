@@ -6,6 +6,7 @@ lat: Location latitude (WGS 84)
 long: Location longitude (WGS 84)
 TIME: Location time of the day
 DATE: Location date
+
 However, other data structures can also be used if modifying the code.
 
 Note that we carried out the analysis for two study areas: Doñana National Park (DNP) and Sierra de San Pedro (SSP). Although the workflow is designed for one study area, results for both study areas are presented, with repeated code hidden for better understanding.
